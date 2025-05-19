@@ -14,8 +14,7 @@
 🇧🇷 **Nome**: [Fabio Zanneti da Silva]  
 **Perfil**: Desenvolvedor(a) apaixonado(a) por tecnologia e impacto social, com foco em compartilhar conhecimento na comunidade DIO.  
 **Contato**: [fzanneti@gmail.com]  
-📫 Sinta-se à vontade para entrar em contato com sugestões ou colaborações!  
-
+📫 Sinta-se à vontade para entrar em contato com sugestões ou colaborações!   
 🇬🇧 **Name**: [Fabio Zanneti da Silva]  
 **Profile**: A passionate developer focused on technology and social impact, dedicated to sharing knowledge with the DIO community.  
 **Contact**: [fzanneti@gmail.com]  
