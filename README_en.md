@@ -49,4 +49,12 @@ To contribute:
 
 ---
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
+
+---
+
+**To the DIO Community**: May Lucca's story inspire you to explore the potential of technology to create transformative solutions!
+
+---
