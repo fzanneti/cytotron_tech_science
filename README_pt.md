@@ -6,7 +6,16 @@ Este repositório foi criado para a comunidade tech da [DIO](https://www.dio.me/
 
 ---
 
-## Sobre o Projeto
+## 🇧🇷 Sobre o Projeto
+
+Bem-vindo ao repositório **Os dois hemisférios de Lucca**, um projeto inspirado no filme *Os dois hemisférios de Lucca* (Netflix, 2025) e no livro *Los dos hemisferios de Lucca* (2019), de Bárbara Anderson. Este repositório, criado para a comunidade tech da [DIO](https://www.dio.me/), explora como a tecnologia, especialmente o Cytotron, transforma vidas ao unir ciência e resiliência humana.  
+Nosso objetivo é inspirar desenvolvedores, cientistas de dados e engenheiros a criar soluções com impacto social.
+
+📖 **O que você encontrará aqui**:
+- Contexto do filme, livro e história real.
+- Detalhes técnicos sobre o Cytotron e inovações médicas.
+- Lições para a comunidade tech e estudos de caso.
+- Recursos e referências para aprofundamento.
 
 O filme, dirigido por Mariana Chenillo, e o livro, escrito por Bárbara Anderson, narram a jornada real de uma família mexicana que enfrenta os desafios da paralisia cerebral de Lucca, um menino que, contra todas as expectativas, alcança avanços significativos por meio de um tratamento experimental na Índia: o Cytotron.  
 Este repositório organiza conteúdos em pastas temáticas, abordando o contexto da história, a tecnologia por trás do tratamento, seu impacto na comunidade tech e referências para estudos adicionais.
