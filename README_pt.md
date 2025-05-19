@@ -45,6 +45,8 @@ Para contribuir:
 3. Adicione ou edite arquivos `.md` com informações relevantes.
 4. Envie um pull request com uma descrição clara das alterações.
 
+---
+
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
