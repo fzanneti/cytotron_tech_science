@@ -18,19 +18,19 @@ Este repositório organiza conteúdos em pastas temáticas, abordando o contexto
 │ :octocat: cytotron_tech_science/  
 │------ :page_with_curl: README.md  
 │--------- :file_folder: 01_context_history/ *(Informações sobre o filme, o livro e a história real de Lucca e sua família.)*    
-│---------------- :page_with_curl: 01_film.md  
-│---------------- :page_with_curl: 02_book.md  
-│---------------- :page_with_curl: 03_real_story.md  
+│------------ :page_with_curl: 01_film.md  
+│------------ :page_with_curl: 02_book.md  
+│------------ :page_with_curl: 03_real_story.md  
 │-------- :file_folder: 02_technology_science/ *(Detalhes técnicos sobre o Cytotron e outras inovações na medicina.)*   
-│---------------- :page_with_curl: 01_cytotron.md  
-│---------------- :page_with_curl: 02_medical_innovation.md  
-│---------------- :page_with_curl: 03_related_technologies.md  
+│------------ :page_with_curl: 01_cytotron.md  
+│------------ :page_with_curl: 02_medical_innovation.md  
+│------------ :page_with_curl: 03_related_technologies.md  
 │-------- :file_folder: 03_impacto_tech/ *(Lições para a comunidade tech, casos de sucesso e desafios para a inovação.)*   
-│---------------- :page_with_curl: 01_technological_community_impact.md  
-│---------------- :page_with_curl: 02_success_stories.md  
-│---------------- :page_with_curl: 03_challenges_opportunities.md  
+│------------ :page_with_curl: 01_technological_community_impact.md  
+│------------ :page_with_curl: 02_success_stories.md  
+│------------ :page_with_curl: 03_challenges_opportunities.md  
 │-------- :file_folder: 04_research_resources/ *(Links para estudos, artigos e recursos adicionais.)*   
-│---------------- :page_with_curl: 01_references_studies.md  
+│------------ :page_with_curl: 01_references_studies.md  
 
 --- 
 
