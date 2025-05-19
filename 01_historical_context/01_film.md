@@ -1,5 +1,3 @@
-### `01_contexto_historia/01_filme.md`
-
 # 🎥 Os Dois Hemisférios de Lucca: O Filme
 
 <p align="center">
