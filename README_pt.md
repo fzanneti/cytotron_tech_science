@@ -1,5 +1,7 @@
 # Os dois hemisférios de Lucca: Tecnologia, ciência e resiliência humana
 
+[🇬🇧 **English**](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_en.md)
+
 Bem-vindo ao repositório **Os dois hemisférios de Lucca**, um projeto que explora a interseção entre tecnologia, ciência e impacto humano, inspirado no filme *Os dois hemisférios de Lucca* (Netflix, 2025) e no livro homônimo de Bárbara Anderson (2019). 
 
 Este repositório foi criado para a comunidade tech da [DIO](https://www.dio.me/), com o objetivo de destacar como inovações tecnológicas, como o Cytotron, podem transformar vidas e inspirar profissionais de tecnologia a criar soluções com propósito.
