@@ -32,6 +32,8 @@ Este repositório organiza conteúdos em pastas temáticas, abordando o contexto
 │-------- :file_folder: 04_research_resources/ *(Links para estudos, artigos e recursos adicionais.)*   
 │---------------- :page_with_curl: 01_references_studies.md  
 
+--- 
+
 ## Como Contribuir
 
 Este repositório é aberto a contribuições!   
