@@ -14,3 +14,23 @@ This repository organizes the content into thematic folders, covering the contex
 
 ---
 
+## Repository Structure
+
+│ :octocat: cytotron_tech_science/ 
+│------ :page_with_curl: README.md 
+│--------- :file_folder: 01_context_history/ *(Information about the movie, the book and the real story of Lucca and his family.)* 
+│---------------- :page_with_curl: 01_film.md 
+│---------------- :page_with_curl: 02_book.md 
+│---------------- :page_with_curl: 03_real_story.md 
+│-------- :file_folder: 02_technology_science/ *(Technical details about the Cytotron and other innovations in medicine.)* 
+│---------------- :page_with_curl: 01_cytotron.md
+│---------------- :page_with_curl: 02_medical_innovation.md 
+│---------------- :page_with_curl: 03_related_technologies.md 
+│-------- :file_folder: 03_impacto_tech/ *(Lessons for the technology community, success stories, and challenges for innovation.)* 
+│---------------- :page_with_curl: 01_technological_community_impact.md 
+│---------------- :page_with_curl: 02_success_stories.md 
+│---------------- :page_with_curl: 03_challenges_opportunities.md 
+│-------- :file_folder: 04_research_resources/ *(Links to additional studies, articles, and resources.)* 
+│---------------- :page_with_curl: 01_references_studies.md
+
+---
