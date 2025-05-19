@@ -1,6 +1,6 @@
 # The two hemispheres of Lucca: Technology, science and human resilience
 
-[🇧🇷 **Português**](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_pt.md)
+[🇧🇷](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_pt.md)
 
 Welcome to the **The Two Hemispheres of Lucca** repository, a project that explores the intersection between technology, science and human impact, inspired by the film *The Two Hemispheres of Lucca* (Netflix, 2025) and the book of the same name by Bárbara Anderson (2019).
 
