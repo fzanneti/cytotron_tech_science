@@ -1,6 +1,6 @@
 # 🌍 Os dois hemisférios de Lucca / The two hemispheres of Lucca
 
-[🇧🇷 **Português**](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_pt.md) | [🇬🇧 **English**](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_en.md)
+[🇧🇷](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_pt.md) | [🇬🇧](https://github.com/fzanneti/cytotron_tech_science/blob/main/README_en.md)
 
 <p align="center">
   <a href="https://www.dio.me/"><img src="https://img.shields.io/badge/DIO-Community-blue" alt="DIO Community"></a>
