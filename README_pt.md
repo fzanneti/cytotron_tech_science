@@ -18,6 +18,7 @@ Nosso objetivo é inspirar desenvolvedores, cientistas de dados e engenheiros a 
 - Recursos e referências para aprofundamento.
 
 O filme, dirigido por Mariana Chenillo, e o livro, escrito por Bárbara Anderson, narram a jornada real de uma família mexicana que enfrenta os desafios da paralisia cerebral de Lucca, um menino que, contra todas as expectativas, alcança avanços significativos por meio de um tratamento experimental na Índia: o Cytotron.  
+
 Este repositório organiza conteúdos em pastas temáticas, abordando o contexto da história, a tecnologia por trás do tratamento, seu impacto na comunidade tech e referências para estudos adicionais.
 
 ---
