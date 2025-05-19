@@ -34,3 +34,19 @@ This repository organizes the content into thematic folders, covering the contex
 │---------------- :page_with_curl: 01_references_studies.md  
 
 ---
+
+## How to Contribute
+
+This repository is open for contributions!
+
+Feel free to add new studies, technical analyses or examples of related technologies.
+
+To contribute:
+1. Fork the repository.
+2. Create a branch for your contribution (`git checkout -b your-contribution`).
+3. Add or edit `.md` files with relevant information.
+4. Submit a pull request with a clear description of the changes.
+
+---
+
+
