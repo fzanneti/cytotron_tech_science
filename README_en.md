@@ -1,4 +1,4 @@
-# The Two Hemispheres of Lucca: Technology, Science and Human Resilience
+# The two hemispheres of Lucca: Technology, science and human resilience
 
 Welcome to the **The Two Hemispheres of Lucca** repository, a project that explores the intersection between technology, science and human impact, inspired by the film *The Two Hemispheres of Lucca* (Netflix, 2025) and the book of the same name by Bárbara Anderson (2019).
 
@@ -6,7 +6,16 @@ This repository was created for the [DIO](https://www.dio.me/) tech community, w
 
 ---
 
-## About the Project
+## 🇬🇧 About the Project
+
+Welcome to the **Os Dois Hemisférios de Lucca** repository, inspired by the film *The Two Hemispheres of Lucca* (Netflix, 2025) and the book *Los Dos Hemisferios de Lucca* (2019) by Bárbara Anderson. Created for the [DIO](https://www.dio.me/) tech community, this repository explores how technology, particularly the Cytotron, transforms lives by blending science and human resilience.  
+Our goal is to inspire developers, data scientists, and engineers to create impactful solutions.
+
+📖 **What you'll find here**:
+- Context of the film, book, and real-life story.
+- Technical details on the Cytotron and medical innovations.
+- Lessons for the tech community and case studies.
+- Resources and references for further exploration.
 
 The film, directed by Mariana Chenillo, and the book, written by Bárbara Anderson, tell the true story of a Mexican family facing the challenges of cerebral palsy in Lucca, a boy who, against all odds, achieves significant progress through an experimental treatment in India: Cytotron.
 
