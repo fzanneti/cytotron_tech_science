@@ -91,20 +91,48 @@ A história de Lucca nos lembra que a tecnologia, quando usada com propósito, p
 
 ---
 
+## Como Contribuir / How to Contribute
+
+Este repositório é aberto a contribuições!   
+Sinta-se à vontade para adicionar novos estudos, análises técnicas ou exemplos de tecnologias relacionadas.  
+
+Para contribuir:
+1. Faça um fork do repositório.
+2. Crie uma branch para sua contribuição (`git checkout -b sua-contribuicao`).
+3. Adicione ou edite arquivos `.md` com informações relevantes.
+4. Envie um pull request com uma descrição clara das alterações.
+
+---
+
+This repository is open for contributions!
+
+Feel free to add new studies, technical analyses or examples of related technologies.
+
+To contribute:
+1. Fork the repository.
+2. Create a branch for your contribution (`git checkout -b your-contribution`).
+3. Add or edit `.md` files with relevant information.
+4. Submit a pull request with a clear description of the changes.
+
+---
+
 ## 👤 Sobre o Autor / About the Author
 
-**Nome / Name**: [Fabio Zanneti da Silva]  
-**Perfil / Profile**: Desenvolvedor(a) apaixonado(a) por tecnologia e impacto social, com foco em compartilhar conhecimento na comunidade DIO.  / A passionate developer focused on technology and social impact, dedicated to sharing knowledge with the DIO community.
-**Contato / Contact**: [fzanneti@gmail.com]  
+**Nome / Name**: Fabio Zanneti da Silva    
+**Perfil / Profile**: Desenvolvedor(a) apaixonado(a) por tecnologia e impacto social, com foco em compartilhar conhecimento na comunidade DIO.  / A passionate developer focused on technology and social impact, dedicated to sharing knowledge with the DIO community.  
+**Contato / Contact**: [fzanneti@gmail.com](mailto:fzanneti@gmail.com)    
 📫 Sinta-se à vontade para entrar em contato com sugestões ou colaborações!  /  Feel free to reach out with suggestions or collaborations!
 
 ---
 
 ## 📜 Licença / License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/fzanneti/cytotron_tech_science/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/fzanneti/cytotron_tech_science/blob/main/LICENSE) para mais detalhes.  
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/fzanneti/cytotron_tech_science/blob/main/LICENSE) para mais detalhes. 
 
 ---
+
+**Para a comunidade DIO**: Que a história de Lucca inspire você a explorar o potencial da tecnologia para criar soluções que transformem vidas!  
+**To the DIO Community**: May Lucca's story inspire you to explore the potential of technology to create transformative solutions!
 
 ---
