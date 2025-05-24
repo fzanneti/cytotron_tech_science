@@ -189,8 +189,11 @@ Despite these criticisms, the book is recognized for its authenticity and emotio
 ---
 
 **Criado por**: Fabio Zanneti da Silva (fzanneti)  
-**Contribuição**: Autor principal do conteúdo sobre *Os Dois Hemisférios de Lucca*, conectando tecnologia, ciência e impacto social para inspirar a comunidade DIO.  
-**Contato**: [GitHub: @fzanneti](https://github.com/fzanneti) | [LinkedIn: fzanneti](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146/) | [E-mail: fzanneti@gmail.com](mailto:fzanneti@gmail.com)  
+**Contribuição**: Autor principal do conteúdo sobre *Os Dois Hemisférios de Lucca*, conectando tecnologia, ciência e impacto social para inspirar a comunidade DIO.   
 **Citação**: "A tecnologia não apenas transforma vidas; ela constrói pontes para a esperança e a inclusão."
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-37ccab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
+[![GitHub](https://img.shields.io/badge/GitHub-7a49c6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
+[![Gmail](https://img.shields.io/badge/Gmail-261d31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fzanneti@gmail.com)
 
 ---
