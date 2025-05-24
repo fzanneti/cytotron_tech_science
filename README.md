@@ -91,28 +91,54 @@ A história de Lucca nos lembra que a tecnologia, quando usada com propósito, p
 
 ---
 
-## Como Contribuir / How to Contribute
-
-Este repositório é aberto a contribuições!   
-Sinta-se à vontade para adicionar novos estudos, análises técnicas ou exemplos de tecnologias relacionadas.  
-
-Para contribuir:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua contribuição (`git checkout -b sua-contribuicao`).
-3. Adicione ou edite arquivos `.md` com informações relevantes.
-4. Envie um pull request com uma descrição clara das alterações.
 
 ---
 
-This repository is open for contributions!
+## 🚀 Como Contribuir / How to Contribute
 
-Feel free to add new studies, technical analyses or examples of related technologies.
+Este repositório é aberto a contribuições da comunidade DIO e além! Quer adicionar artigos sobre neuroplasticidade, análises de dados do Cytotron, protótipos de exoesqueletos ou cursos educacionais? Sua contribuição pode inspirar inovações com impacto social.
 
-To contribute:
-1. Fork the repository.
-2. Create a branch for your contribution (`git checkout -b your-contribution`).
-3. Add or edit `.md` files with relevant information.
-4. Submit a pull request with a clear description of the changes.
+**Passos para Contribuir**:
+1. Leia o [Tutorial de Contribuição](04_contributors/06_tutorial_contribuicao.md) para diretrizes detalhadas sobre artigos, projetos e ética.
+2. Faça um fork do repositório em [github.com/fzanneti/cytotron_tech_science](https://github.com/fzanneti/cytotron_tech_science).
+3. Crie uma branch para sua contribuição (`git checkout -b sua-contribuicao`).
+4. Adicione ou edite arquivos `.md` (ex.: novos artigos em `02_tecnologia_ciencia/`) ou projetos em `04_contributors/projects/`.
+5. Envie um pull request (PR) com uma descrição clara, mencionando como sua contribuição se alinha aos objetivos do repositório.
+6. Confira as [issues abertas](https://github.com/fzanneti/cytotron_tech_science/issues) para ideias ou proponha uma nova!
+
+**Exemplos de Contribuições**:
+- Artigo sobre neuroplasticidade em `02_tecnologia_ciencia/07_neuroplasticidade.md`.
+- Análise de EEGs do Cytotron em `02_tecnologia_ciencia/data_analysis_cytotron.ipynb`.
+- App de telemedicina em `04_contributors/projects/telemedicine_app/`.
+
+**Dicas**:
+- Siga as diretrizes éticas do tutorial, como citar fontes confiáveis ([Nature](https://www.nature.com)) e evitar exageros sobre tecnologias experimentais ([Hope for HIE](https://www.hopeforhie.org)).
+- Use Markdown com ícones (📝, 🛠️) e inclua uma assinatura no seu arquivo.
+
+Junte-se à comunidade e ajude a construir um futuro mais inclusivo! 🚀
+
+---
+
+This repository is open to contributions from the DIO community and beyond! Want to add articles on neuroplasticity, Cytotron data analyses, exoskeleton prototypes, or educational courses? Your contribution can inspire socially impactful innovations.
+
+**Steps to Contribute**:
+1. Read the [Contribution Tutorial](04_contributors/06_tutorial_contribuicao.md) for detailed guidelines on articles, projects, and ethics.
+2. Fork the repository at [github.com/fzanneti/cytotron_tech_science](https://github.com/fzanneti/cytotron_tech_science).
+3. Create a branch for your contribution (`git checkout -b your-contribution`).
+4. Add or edit `.md` files (e.g., new articles in `02_tecnologia_ciencia/`) or projects in `04_contributors/projects/`.
+5. Submit a pull request (PR) with a clear description, explaining how your contribution aligns with the repository’s goals.
+6. Check [open issues](https://github.com/fzanneti/cytotron_tech_science/issues) for ideas or propose a new one!
+
+**Contribution Examples**:
+- Article on neuroplasticity in `02_tecnologia_ciencia/07_neuroplasticidade.md`.
+- Cytotron EEG analysis in `02_tecnologia_ciencia/data_analysis_cytotron.ipynb`.
+- Telemedicine app in `04_contributors/projects/telemedicine_app/`.
+
+**Tips**:
+- Follow the tutorial’s ethical guidelines, such as citing reliable sources ([Nature](https://www.nature.com)) and avoiding overstatements about experimental technologies ([Hope for HIE](https://www.hopeforhie.org)).
+- Use Markdown with icons (📝, 🛠️) and include a signature in your file.
+
+Join the community and help build a more inclusive future! 🚀
 
 ---
 
