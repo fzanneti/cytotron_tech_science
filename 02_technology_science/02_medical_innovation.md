@@ -246,12 +246,12 @@ The use of AI in medicine, including at Cytotron, faces technical, ethical and s
     - Example: The Kumar Center has faced criticism for lack of transparency in managing patient data ([AP News](https://www.apnews.com)).
 
 - **Accessibility**:
-- The high cost of Cytotron ($35,000 per course) and reliance on advanced AI infrastructure limit access in low-income regions ([Canal Ideal](https://canalideal.com.br)).
-- AI solutions should focus on scalability, such as low-cost algorithms running on mobile devices.
+    - The high cost of Cytotron ($35,000 per course) and reliance on advanced AI infrastructure limit access in low-income regions ([Canal Ideal](https://canalideal.com.br)).
+    - AI solutions should focus on scalability, such as low-cost algorithms running on mobile devices.
 
 - **Unrealistic Expectations**:
-- The narrative of *The Two Hemispheres of Lucca* may amplify optimism about AI and Cytotron, generating false hope among families of cerebral palsy patients ([Hope for HIE](https://www.hopeforhie.org)).
-- Discussions on forums such as Reddit highlight the need for clear communication about the limits of AI ([Reddit](https://www.reddit.com)).
+    - The narrative of *The Two Hemispheres of Lucca* may amplify optimism about AI and Cytotron, generating false hope among families of cerebral palsy patients ([Hope for HIE](https://www.hopeforhie.org)).
+    - Discussions on forums such as Reddit highlight the need for clear communication about the limits of AI ([Reddit](https://www.reddit.com)).
 
 ---
 
