@@ -98,7 +98,7 @@ A história de Lucca nos lembra que a tecnologia, quando usada com propósito, p
 Este repositório é aberto a contribuições da comunidade DIO e além! Quer adicionar artigos sobre neuroplasticidade, análises de dados do Cytotron, protótipos de exoesqueletos ou cursos educacionais? Sua contribuição pode inspirar inovações com impacto social.
 
 **Passos para Contribuir**:
-1. Leia o [Tutorial de Contribuição](04_contributors/06_tutorial_contribuicao.md) para diretrizes detalhadas sobre artigos, projetos e ética.
+1. Leia o [Tutorial de Contribuição](04_contributors/01_challenges_opportunities.md) para diretrizes detalhadas sobre artigos, projetos e ética.
 2. Faça um fork do repositório em [github.com/fzanneti/cytotron_tech_science](https://github.com/fzanneti/cytotron_tech_science).
 3. Crie uma branch para sua contribuição (`git checkout -b sua-contribuicao`).
 4. Adicione ou edite arquivos `.md` (ex.: novos artigos em `02_tecnologia_ciencia/`) ou projetos em `04_contributors/projects/`.
@@ -121,7 +121,7 @@ Junte-se à comunidade e ajude a construir um futuro mais inclusivo! 🚀
 This repository is open to contributions from the DIO community and beyond! Want to add articles on neuroplasticity, Cytotron data analyses, exoskeleton prototypes, or educational courses? Your contribution can inspire socially impactful innovations.
 
 **Steps to Contribute**:
-1. Read the [Contribution Tutorial](04_contributors/06_tutorial_contribuicao.md) for detailed guidelines on articles, projects, and ethics.
+1. Read the [Contribution Tutorial](04_contributors/01_challenges_opportunities.md) for detailed guidelines on articles, projects, and ethics.
 2. Fork the repository at [github.com/fzanneti/cytotron_tech_science](https://github.com/fzanneti/cytotron_tech_science).
 3. Create a branch for your contribution (`git checkout -b your-contribution`).
 4. Add or edit `.md` files (e.g., new articles in `02_tecnologia_ciencia/`) or projects in `04_contributors/projects/`.
