@@ -93,9 +93,6 @@ A história de Lucca nos lembra que a tecnologia, quando usada com propósito, p
 
 ---
 
-
----
-
 ## 🚀 Como Contribuir / How to Contribute
 
 Este repositório é aberto a contribuições da comunidade DIO e além! Quer adicionar artigos sobre neuroplasticidade, análises de dados do Cytotron, protótipos de exoesqueletos ou cursos educacionais? Sua contribuição pode inspirar inovações com impacto social.
