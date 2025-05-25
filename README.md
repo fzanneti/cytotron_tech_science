@@ -77,8 +77,7 @@ A história de Lucca nos lembra que a tecnologia, quando usada com propósito, p
 │------------ :page_with_curl: 03_related_technologies.md  
 │-------- :file_folder: 03_impacto_tech/   
 │------------ :page_with_curl: 01_technological_community_impact.md  
-│------------ :page_with_curl: 02_success_stories.md  
-│------------ :page_with_curl: 03_challenges_opportunities.md  
+│------------ :page_with_curl: 02_success_stories.md    
 │-------- :file_folder: 04_contributors/   
 │------------ :page_with_curl: 01_challenges_opportunities.md    
 │-------- :file_folder: 05_research_resources/  
