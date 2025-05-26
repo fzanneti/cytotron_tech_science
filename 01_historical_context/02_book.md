@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.dio.me/"><img src="https://img.shields.io/badge/DIO-Community-blue" alt="DIO Community"></a>
-  <a href="https://www.planetadelibros.com.mx/libro-los-dos-hemisferios-de-lucca/305827"><img src="https://img.shields.io/badge/Planeta-Buy%20Now-orange" alt="Buy on Planeta"></a>
+  <a href="https://www.amazon.com.br/DOS-HEMISFERIOS-DE-LUCA-LOS/dp/6073175507"><img src="https://img.shields.io/badge/Amazon-Buy%20Now-orange" alt="buy on Amazon"></a>
 </p>
 
 ## 📌 Introdução / Introduction
